@@ -2,8 +2,7 @@
 /*
 * @file matrisoperations.c
 * @description initialization of functions over the given matrices to add and multiply the elements with each other.
-* @assignment Bp3 Proje 1
-* @date 16.02.2021
+* @date 16.12.2021
 * @author Mahmudhan Sami Diriğ ve mahmudhansami.dirig@stu.fsm.edu.tr
 */
 
